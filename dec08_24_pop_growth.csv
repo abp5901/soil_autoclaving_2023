@@ -1,0 +1,641 @@
+Soil,Autoclaving,treatment,variety,experiment,block,replication,date,count,aphid_count
+Pea,No,NatPea,B73,greenhouse,NA,1,6/18/24,D1,10
+Pea,No,NatPea,B73,greenhouse,NA,2,6/18/24,D1,10
+Pea,No,NatPea,B73,greenhouse,NA,3,6/18/24,D1,10
+Pea,No,NatPea,B73,greenhouse,NA,4,6/18/24,D1,10
+Pea,No,NatPea,B73,greenhouse,NA,5,6/18/24,D1,10
+Pea,No,NatPea,B73,greenhouse,NA,6,6/18/24,D1,10
+Pea,No,NatPea,B73,greenhouse,NA,7,6/18/24,D1,10
+Pea,No,NatPea,B73,greenhouse,NA,8,6/18/24,D1,10
+Pea,No,NatPea,B73,greenhouse,NA,9,6/18/24,D1,10
+Pea,No,NatPea,B73,greenhouse,NA,10,6/18/24,D1,10
+Pea,Yes,AtPea,B73,greenhouse,NA,1,6/18/24,D1,10
+Pea,Yes,AtPea,B73,greenhouse,NA,2,6/18/24,D1,10
+Pea,Yes,AtPea,B73,greenhouse,NA,3,6/18/24,D1,10
+Pea,Yes,AtPea,B73,greenhouse,NA,4,6/18/24,D1,10
+Pea,Yes,AtPea,B73,greenhouse,NA,5,6/18/24,D1,10
+Pea,Yes,AtPea,B73,greenhouse,NA,6,6/18/24,D1,10
+Pea,Yes,AtPea,B73,greenhouse,NA,7,6/18/24,D1,10
+Pea,Yes,AtPea,B73,greenhouse,NA,8,6/18/24,D1,10
+Pea,Yes,AtPea,B73,greenhouse,NA,9,6/18/24,D1,10
+Pea,Yes,AtPea,B73,greenhouse,NA,10,6/18/24,D1,10
+Triticale,No,NatTrt,B73,greenhouse,NA,1,6/18/24,D1,10
+Triticale,No,NatTrt,B73,greenhouse,NA,2,6/18/24,D1,10
+Triticale,No,NatTrt,B73,greenhouse,NA,3,6/18/24,D1,10
+Triticale,No,NatTrt,B73,greenhouse,NA,4,6/18/24,D1,10
+Triticale,No,NatTrt,B73,greenhouse,NA,5,6/18/24,D1,10
+Triticale,No,NatTrt,B73,greenhouse,NA,6,6/18/24,D1,10
+Triticale,No,NatTrt,B73,greenhouse,NA,7,6/18/24,D1,10
+Triticale,No,NatTrt,B73,greenhouse,NA,8,6/18/24,D1,10
+Triticale,No,NatTrt,B73,greenhouse,NA,9,6/18/24,D1,10
+Triticale,No,NatTrt,B73,greenhouse,NA,10,6/18/24,D1,10
+Triticale,Yes,AtTrt,B73,greenhouse,NA,1,6/18/24,D1,10
+Triticale,Yes,AtTrt,B73,greenhouse,NA,2,6/18/24,D1,10
+Triticale,Yes,AtTrt,B73,greenhouse,NA,3,6/18/24,D1,10
+Triticale,Yes,AtTrt,B73,greenhouse,NA,4,6/18/24,D1,10
+Triticale,Yes,AtTrt,B73,greenhouse,NA,5,6/18/24,D1,10
+Triticale,Yes,AtTrt,B73,greenhouse,NA,6,6/18/24,D1,10
+Triticale,Yes,AtTrt,B73,greenhouse,NA,7,6/18/24,D1,10
+Triticale,Yes,AtTrt,B73,greenhouse,NA,8,6/18/24,D1,10
+Triticale,Yes,AtTrt,B73,greenhouse,NA,9,6/18/24,D1,10
+Triticale,Yes,AtTrt,B73,greenhouse,NA,10,6/18/24,D1,10
+Radish,No,NaRad,B73,greenhouse,NA,1,6/18/24,D1,10
+Radish,No,NaRad,B73,greenhouse,NA,2,6/18/24,D1,10
+Radish,No,NaRad,B73,greenhouse,NA,3,6/18/24,D1,10
+Radish,No,NaRad,B73,greenhouse,NA,4,6/18/24,D1,10
+Radish,No,NaRad,B73,greenhouse,NA,5,6/18/24,D1,10
+Radish,No,NaRad,B73,greenhouse,NA,6,6/18/24,D1,10
+Radish,No,NaRad,B73,greenhouse,NA,7,6/18/24,D1,10
+Radish,No,NaRad,B73,greenhouse,NA,8,6/18/24,D1,10
+Radish,No,NaRad,B73,greenhouse,NA,9,6/18/24,D1,10
+Radish,No,NaRad,B73,greenhouse,NA,10,6/18/24,D1,10
+Radish,Yes,AtRad,B73,greenhouse,NA,1,6/18/24,D1,10
+Radish,Yes,AtRad,B73,greenhouse,NA,2,6/18/24,D1,10
+Radish,Yes,AtRad,B73,greenhouse,NA,3,6/18/24,D1,10
+Radish,Yes,AtRad,B73,greenhouse,NA,4,6/18/24,D1,10
+Radish,Yes,AtRad,B73,greenhouse,NA,5,6/18/24,D1,10
+Radish,Yes,AtRad,B73,greenhouse,NA,6,6/18/24,D1,10
+Radish,Yes,AtRad,B73,greenhouse,NA,7,6/18/24,D1,10
+Radish,Yes,AtRad,B73,greenhouse,NA,8,6/18/24,D1,10
+Radish,Yes,AtRad,B73,greenhouse,NA,9,6/18/24,D1,10
+Radish,Yes,AtRad,B73,greenhouse,NA,10,6/18/24,D1,10
+Potting mix,No,NaPtm,B73,greenhouse,NA,1,6/18/24,D1,10
+Potting mix,No,NaPtm,B73,greenhouse,NA,2,6/18/24,D1,10
+Potting mix,No,NaPtm,B73,greenhouse,NA,3,6/18/24,D1,10
+Potting mix,No,NaPtm,B73,greenhouse,NA,4,6/18/24,D1,10
+Potting mix,No,NaPtm,B73,greenhouse,NA,5,6/18/24,D1,10
+Potting mix,No,NaPtm,B73,greenhouse,NA,6,6/18/24,D1,10
+Potting mix,No,NaPtm,B73,greenhouse,NA,7,6/18/24,D1,10
+Potting mix,No,NaPtm,B73,greenhouse,NA,8,6/18/24,D1,10
+Potting mix,No,NaPtm,B73,greenhouse,NA,9,6/18/24,D1,10
+Potting mix,No,NaPtm,B73,greenhouse,NA,10,6/18/24,D1,10
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,1,6/18/24,D1,10
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,2,6/18/24,D1,10
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,3,6/18/24,D1,10
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,4,6/18/24,D1,10
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,5,6/18/24,D1,10
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,6,6/18/24,D1,10
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,7,6/18/24,D1,10
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,8,6/18/24,D1,10
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,9,6/18/24,D1,10
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,10,6/18/24,D1,10
+Pea,No,NatPea,B73,greenhouse,NA,1,6/25/24,D7,4
+Pea,No,NatPea,B73,greenhouse,NA,2,6/25/24,D7,0
+Pea,No,NatPea,B73,greenhouse,NA,3,6/25/24,D7,0
+Pea,No,NatPea,B73,greenhouse,NA,4,6/25/24,D7,2
+Pea,No,NatPea,B73,greenhouse,NA,5,6/25/24,D7,6
+Pea,No,NatPea,B73,greenhouse,NA,6,6/25/24,D7,1
+Pea,No,NatPea,B73,greenhouse,NA,7,6/25/24,D7,1
+Pea,No,NatPea,B73,greenhouse,NA,8,6/25/24,D7,0
+Pea,No,NatPea,B73,greenhouse,NA,9,6/25/24,D7,1
+Pea,No,NatPea,B73,greenhouse,NA,10,6/25/24,D7,0
+Pea,Yes,AtPea,B73,greenhouse,NA,1,6/25/24,D7,0
+Pea,Yes,AtPea,B73,greenhouse,NA,2,6/25/24,D7,3
+Pea,Yes,AtPea,B73,greenhouse,NA,3,6/25/24,D7,2
+Pea,Yes,AtPea,B73,greenhouse,NA,4,6/25/24,D7,3
+Pea,Yes,AtPea,B73,greenhouse,NA,5,6/25/24,D7,2
+Pea,Yes,AtPea,B73,greenhouse,NA,6,6/25/24,D7,2
+Pea,Yes,AtPea,B73,greenhouse,NA,7,6/25/24,D7,1
+Pea,Yes,AtPea,B73,greenhouse,NA,8,6/25/24,D7,2
+Pea,Yes,AtPea,B73,greenhouse,NA,9,6/25/24,D7,0
+Pea,Yes,AtPea,B73,greenhouse,NA,10,6/25/24,D7,2
+Triticale,No,NatTrt,B73,greenhouse,NA,1,6/25/24,D7,0
+Triticale,No,NatTrt,B73,greenhouse,NA,2,6/25/24,D7,0
+Triticale,No,NatTrt,B73,greenhouse,NA,3,6/25/24,D7,1
+Triticale,No,NatTrt,B73,greenhouse,NA,4,6/25/24,D7,6
+Triticale,No,NatTrt,B73,greenhouse,NA,5,6/25/24,D7,0
+Triticale,No,NatTrt,B73,greenhouse,NA,6,6/25/24,D7,3
+Triticale,No,NatTrt,B73,greenhouse,NA,7,6/25/24,D7,0
+Triticale,No,NatTrt,B73,greenhouse,NA,8,6/25/24,D7,0
+Triticale,No,NatTrt,B73,greenhouse,NA,9,6/25/24,D7,0
+Triticale,No,NatTrt,B73,greenhouse,NA,10,6/25/24,D7,5
+Triticale,Yes,AtTrt,B73,greenhouse,NA,1,6/25/24,D7,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,2,6/25/24,D7,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,3,6/25/24,D7,4
+Triticale,Yes,AtTrt,B73,greenhouse,NA,4,6/25/24,D7,1
+Triticale,Yes,AtTrt,B73,greenhouse,NA,5,6/25/24,D7,1
+Triticale,Yes,AtTrt,B73,greenhouse,NA,6,6/25/24,D7,6
+Triticale,Yes,AtTrt,B73,greenhouse,NA,7,6/25/24,D7,1
+Triticale,Yes,AtTrt,B73,greenhouse,NA,8,6/25/24,D7,1
+Triticale,Yes,AtTrt,B73,greenhouse,NA,9,6/25/24,D7,1
+Triticale,Yes,AtTrt,B73,greenhouse,NA,10,6/25/24,D7,0
+Radish,No,NaRad,B73,greenhouse,NA,1,6/25/24,D7,1
+Radish,No,NaRad,B73,greenhouse,NA,2,6/25/24,D7,1
+Radish,No,NaRad,B73,greenhouse,NA,3,6/25/24,D7,0
+Radish,No,NaRad,B73,greenhouse,NA,4,6/25/24,D7,0
+Radish,No,NaRad,B73,greenhouse,NA,5,6/25/24,D7,1
+Radish,No,NaRad,B73,greenhouse,NA,6,6/25/24,D7,0
+Radish,No,NaRad,B73,greenhouse,NA,7,6/25/24,D7,0
+Radish,No,NaRad,B73,greenhouse,NA,8,6/25/24,D7,3
+Radish,No,NaRad,B73,greenhouse,NA,9,6/25/24,D7,4
+Radish,No,NaRad,B73,greenhouse,NA,10,6/25/24,D7,0
+Radish,Yes,AtRad,B73,greenhouse,NA,1,6/25/24,D7,1
+Radish,Yes,AtRad,B73,greenhouse,NA,2,6/25/24,D7,1
+Radish,Yes,AtRad,B73,greenhouse,NA,3,6/25/24,D7,2
+Radish,Yes,AtRad,B73,greenhouse,NA,4,6/25/24,D7,7
+Radish,Yes,AtRad,B73,greenhouse,NA,5,6/25/24,D7,4
+Radish,Yes,AtRad,B73,greenhouse,NA,6,6/25/24,D7,0
+Radish,Yes,AtRad,B73,greenhouse,NA,7,6/25/24,D7,1
+Radish,Yes,AtRad,B73,greenhouse,NA,8,6/25/24,D7,4
+Radish,Yes,AtRad,B73,greenhouse,NA,9,6/25/24,D7,6
+Radish,Yes,AtRad,B73,greenhouse,NA,10,6/25/24,D7,0
+Potting mix,No,NaPtm,B73,greenhouse,NA,1,6/25/24,D7,9
+Potting mix,No,NaPtm,B73,greenhouse,NA,2,6/25/24,D7,4
+Potting mix,No,NaPtm,B73,greenhouse,NA,3,6/25/24,D7,9
+Potting mix,No,NaPtm,B73,greenhouse,NA,4,6/25/24,D7,3
+Potting mix,No,NaPtm,B73,greenhouse,NA,5,6/25/24,D7,35
+Potting mix,No,NaPtm,B73,greenhouse,NA,6,6/25/24,D7,28
+Potting mix,No,NaPtm,B73,greenhouse,NA,7,6/25/24,D7,7
+Potting mix,No,NaPtm,B73,greenhouse,NA,8,6/25/24,D7,14
+Potting mix,No,NaPtm,B73,greenhouse,NA,9,6/25/24,D7,11
+Potting mix,No,NaPtm,B73,greenhouse,NA,10,6/25/24,D7,2
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,1,6/25/24,D7,2
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,2,6/25/24,D7,6
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,3,6/25/24,D7,15
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,4,6/25/24,D7,10
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,5,6/25/24,D7,6
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,6,6/25/24,D7,9
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,7,6/25/24,D7,6
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,8,6/25/24,D7,6
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,9,6/25/24,D7,1
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,10,6/25/24,D7,0
+Pea,No,NatPea,B73,greenhouse,NA,1,7/1/24,D14,3
+Pea,No,NatPea,B73,greenhouse,NA,2,7/1/24,D14,0
+Pea,No,NatPea,B73,greenhouse,NA,3,7/1/24,D14,0
+Pea,No,NatPea,B73,greenhouse,NA,4,7/1/24,D14,0
+Pea,No,NatPea,B73,greenhouse,NA,5,7/1/24,D14,3
+Pea,No,NatPea,B73,greenhouse,NA,6,7/1/24,D14,0
+Pea,No,NatPea,B73,greenhouse,NA,7,7/1/24,D14,0
+Pea,No,NatPea,B73,greenhouse,NA,8,7/1/24,D14,0
+Pea,No,NatPea,B73,greenhouse,NA,9,7/1/24,D14,0
+Pea,No,NatPea,B73,greenhouse,NA,10,7/1/24,D14,0
+Pea,Yes,AtPea,B73,greenhouse,NA,1,7/1/24,D14,0
+Pea,Yes,AtPea,B73,greenhouse,NA,2,7/1/24,D14,5
+Pea,Yes,AtPea,B73,greenhouse,NA,3,7/1/24,D14,2
+Pea,Yes,AtPea,B73,greenhouse,NA,4,7/1/24,D14,3
+Pea,Yes,AtPea,B73,greenhouse,NA,5,7/1/24,D14,3
+Pea,Yes,AtPea,B73,greenhouse,NA,6,7/1/24,D14,3
+Pea,Yes,AtPea,B73,greenhouse,NA,7,7/1/24,D14,1
+Pea,Yes,AtPea,B73,greenhouse,NA,8,7/1/24,D14,1
+Pea,Yes,AtPea,B73,greenhouse,NA,9,7/1/24,D14,0
+Pea,Yes,AtPea,B73,greenhouse,NA,10,7/1/24,D14,1
+Triticale,No,NatTrt,B73,greenhouse,NA,1,7/1/24,D14,0
+Triticale,No,NatTrt,B73,greenhouse,NA,2,7/1/24,D14,0
+Triticale,No,NatTrt,B73,greenhouse,NA,3,7/1/24,D14,2
+Triticale,No,NatTrt,B73,greenhouse,NA,4,7/1/24,D14,9
+Triticale,No,NatTrt,B73,greenhouse,NA,5,7/1/24,D14,0
+Triticale,No,NatTrt,B73,greenhouse,NA,6,7/1/24,D14,0
+Triticale,No,NatTrt,B73,greenhouse,NA,7,7/1/24,D14,1
+Triticale,No,NatTrt,B73,greenhouse,NA,8,7/1/24,D14,0
+Triticale,No,NatTrt,B73,greenhouse,NA,9,7/1/24,D14,0
+Triticale,No,NatTrt,B73,greenhouse,NA,10,7/1/24,D14,3
+Triticale,Yes,AtTrt,B73,greenhouse,NA,1,7/1/24,D14,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,2,7/1/24,D14,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,3,7/1/24,D14,3
+Triticale,Yes,AtTrt,B73,greenhouse,NA,4,7/1/24,D14,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,5,7/1/24,D14,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,6,7/1/24,D14,3
+Triticale,Yes,AtTrt,B73,greenhouse,NA,7,7/1/24,D14,1
+Triticale,Yes,AtTrt,B73,greenhouse,NA,8,7/1/24,D14,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,9,7/1/24,D14,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,10,7/1/24,D14,0
+Radish,No,NaRad,B73,greenhouse,NA,1,7/1/24,D14,0
+Radish,No,NaRad,B73,greenhouse,NA,2,7/1/24,D14,0
+Radish,No,NaRad,B73,greenhouse,NA,3,7/1/24,D14,0
+Radish,No,NaRad,B73,greenhouse,NA,4,7/1/24,D14,0
+Radish,No,NaRad,B73,greenhouse,NA,5,7/1/24,D14,0
+Radish,No,NaRad,B73,greenhouse,NA,6,7/1/24,D14,0
+Radish,No,NaRad,B73,greenhouse,NA,7,7/1/24,D14,0
+Radish,No,NaRad,B73,greenhouse,NA,8,7/1/24,D14,0
+Radish,No,NaRad,B73,greenhouse,NA,9,7/1/24,D14,0
+Radish,No,NaRad,B73,greenhouse,NA,10,7/1/24,D14,0
+Radish,Yes,AtRad,B73,greenhouse,NA,1,7/1/24,D14,1
+Radish,Yes,AtRad,B73,greenhouse,NA,2,7/1/24,D14,0
+Radish,Yes,AtRad,B73,greenhouse,NA,3,7/1/24,D14,1
+Radish,Yes,AtRad,B73,greenhouse,NA,4,7/1/24,D14,0
+Radish,Yes,AtRad,B73,greenhouse,NA,5,7/1/24,D14,1
+Radish,Yes,AtRad,B73,greenhouse,NA,6,7/1/24,D14,0
+Radish,Yes,AtRad,B73,greenhouse,NA,7,7/1/24,D14,0
+Radish,Yes,AtRad,B73,greenhouse,NA,8,7/1/24,D14,0
+Radish,Yes,AtRad,B73,greenhouse,NA,9,7/1/24,D14,1
+Radish,Yes,AtRad,B73,greenhouse,NA,10,7/1/24,D14,0
+Potting mix,No,NaPtm,B73,greenhouse,NA,1,7/1/24,D14,32
+Potting mix,No,NaPtm,B73,greenhouse,NA,2,7/1/24,D14,3
+Potting mix,No,NaPtm,B73,greenhouse,NA,3,7/1/24,D14,10
+Potting mix,No,NaPtm,B73,greenhouse,NA,4,7/1/24,D14,3
+Potting mix,No,NaPtm,B73,greenhouse,NA,5,7/1/24,D14,105
+Potting mix,No,NaPtm,B73,greenhouse,NA,6,7/1/24,D14,92
+Potting mix,No,NaPtm,B73,greenhouse,NA,7,7/1/24,D14,3
+Potting mix,No,NaPtm,B73,greenhouse,NA,8,7/1/24,D14,35
+Potting mix,No,NaPtm,B73,greenhouse,NA,9,7/1/24,D14,14
+Potting mix,No,NaPtm,B73,greenhouse,NA,10,7/1/24,D14,2
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,1,7/1/24,D14,0
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,2,7/1/24,D14,3
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,3,7/1/24,D14,64
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,4,7/1/24,D14,31
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,5,7/1/24,D14,23
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,6,7/1/24,D14,6
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,7,7/1/24,D14,11
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,8,7/1/24,D14,12
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,9,7/1/24,D14,1
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,10,7/1/24,D14,1
+Pea,No,NatPea,B73,greenhouse,NA,1,7/8/24,D21,0
+Pea,No,NatPea,B73,greenhouse,NA,2,7/8/24,D21,0
+Pea,No,NatPea,B73,greenhouse,NA,3,7/8/24,D21,0
+Pea,No,NatPea,B73,greenhouse,NA,4,7/8/24,D21,0
+Pea,No,NatPea,B73,greenhouse,NA,5,7/8/24,D21,4
+Pea,No,NatPea,B73,greenhouse,NA,6,7/8/24,D21,0
+Pea,No,NatPea,B73,greenhouse,NA,7,7/8/24,D21,0
+Pea,No,NatPea,B73,greenhouse,NA,8,7/8/24,D21,0
+Pea,No,NatPea,B73,greenhouse,NA,9,7/8/24,D21,0
+Pea,No,NatPea,B73,greenhouse,NA,10,7/8/24,D21,0
+Pea,Yes,AtPea,B73,greenhouse,NA,1,7/8/24,D21,0
+Pea,Yes,AtPea,B73,greenhouse,NA,2,7/8/24,D21,0
+Pea,Yes,AtPea,B73,greenhouse,NA,3,7/8/24,D21,0
+Pea,Yes,AtPea,B73,greenhouse,NA,4,7/8/24,D21,1
+Pea,Yes,AtPea,B73,greenhouse,NA,5,7/8/24,D21,6
+Pea,Yes,AtPea,B73,greenhouse,NA,6,7/8/24,D21,8
+Pea,Yes,AtPea,B73,greenhouse,NA,7,7/8/24,D21,2
+Pea,Yes,AtPea,B73,greenhouse,NA,8,7/8/24,D21,0
+Pea,Yes,AtPea,B73,greenhouse,NA,9,7/8/24,D21,0
+Pea,Yes,AtPea,B73,greenhouse,NA,10,7/8/24,D21,0
+Triticale,No,NatTrt,B73,greenhouse,NA,1,7/8/24,D21,0
+Triticale,No,NatTrt,B73,greenhouse,NA,2,7/8/24,D21,0
+Triticale,No,NatTrt,B73,greenhouse,NA,3,7/8/24,D21,0
+Triticale,No,NatTrt,B73,greenhouse,NA,4,7/8/24,D21,34
+Triticale,No,NatTrt,B73,greenhouse,NA,5,7/8/24,D21,0
+Triticale,No,NatTrt,B73,greenhouse,NA,6,7/8/24,D21,0
+Triticale,No,NatTrt,B73,greenhouse,NA,7,7/8/24,D21,0
+Triticale,No,NatTrt,B73,greenhouse,NA,8,7/8/24,D21,0
+Triticale,No,NatTrt,B73,greenhouse,NA,9,7/8/24,D21,0
+Triticale,No,NatTrt,B73,greenhouse,NA,10,7/8/24,D21,3
+Triticale,Yes,AtTrt,B73,greenhouse,NA,1,7/8/24,D21,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,2,7/8/24,D21,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,3,7/8/24,D21,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,4,7/8/24,D21,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,5,7/8/24,D21,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,6,7/8/24,D21,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,7,7/8/24,D21,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,8,7/8/24,D21,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,9,7/8/24,D21,0
+Triticale,Yes,AtTrt,B73,greenhouse,NA,10,7/8/24,D21,0
+Radish,No,NaRad,B73,greenhouse,NA,1,7/8/24,D21,0
+Radish,No,NaRad,B73,greenhouse,NA,2,7/8/24,D21,0
+Radish,No,NaRad,B73,greenhouse,NA,3,7/8/24,D21,0
+Radish,No,NaRad,B73,greenhouse,NA,4,7/8/24,D21,0
+Radish,No,NaRad,B73,greenhouse,NA,5,7/8/24,D21,0
+Radish,No,NaRad,B73,greenhouse,NA,6,7/8/24,D21,0
+Radish,No,NaRad,B73,greenhouse,NA,7,7/8/24,D21,0
+Radish,No,NaRad,B73,greenhouse,NA,8,7/8/24,D21,0
+Radish,No,NaRad,B73,greenhouse,NA,9,7/8/24,D21,0
+Radish,No,NaRad,B73,greenhouse,NA,10,7/8/24,D21,0
+Radish,Yes,AtRad,B73,greenhouse,NA,1,7/8/24,D21,1
+Radish,Yes,AtRad,B73,greenhouse,NA,2,7/8/24,D21,0
+Radish,Yes,AtRad,B73,greenhouse,NA,3,7/8/24,D21,0
+Radish,Yes,AtRad,B73,greenhouse,NA,4,7/8/24,D21,0
+Radish,Yes,AtRad,B73,greenhouse,NA,5,7/8/24,D21,0
+Radish,Yes,AtRad,B73,greenhouse,NA,6,7/8/24,D21,0
+Radish,Yes,AtRad,B73,greenhouse,NA,7,7/8/24,D21,0
+Radish,Yes,AtRad,B73,greenhouse,NA,8,7/8/24,D21,0
+Radish,Yes,AtRad,B73,greenhouse,NA,9,7/8/24,D21,0
+Radish,Yes,AtRad,B73,greenhouse,NA,10,7/8/24,D21,0
+Potting mix,No,NaPtm,B73,greenhouse,NA,1,7/8/24,D21,111
+Potting mix,No,NaPtm,B73,greenhouse,NA,2,7/8/24,D21,0
+Potting mix,No,NaPtm,B73,greenhouse,NA,3,7/8/24,D21,30
+Potting mix,No,NaPtm,B73,greenhouse,NA,4,7/8/24,D21,10
+Potting mix,No,NaPtm,B73,greenhouse,NA,5,7/8/24,D21,140
+Potting mix,No,NaPtm,B73,greenhouse,NA,6,7/8/24,D21,241
+Potting mix,No,NaPtm,B73,greenhouse,NA,7,7/8/24,D21,3
+Potting mix,No,NaPtm,B73,greenhouse,NA,8,7/8/24,D21,65
+Potting mix,No,NaPtm,B73,greenhouse,NA,9,7/8/24,D21,188
+Potting mix,No,NaPtm,B73,greenhouse,NA,10,7/8/24,D21,0
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,1,7/8/24,D21,0
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,2,7/8/24,D21,0
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,3,7/8/24,D21,229
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,4,7/8/24,D21,51
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,5,7/8/24,D21,67
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,6,7/8/24,D21,3
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,7,7/8/24,D21,13
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,8,7/8/24,D21,31
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,9,7/8/24,D21,0
+Potting mix,Yes,AtPtm,B73,greenhouse,NA,10,7/8/24,D21,0
+Pea,No,NatPea,M4050,greenhouse,NA,1,4/19/24,D1,10
+Pea,No,NatPea,M4050,greenhouse,NA,2,4/19/24,D1,10
+Pea,No,NatPea,M4050,greenhouse,NA,3,4/19/24,D1,10
+Pea,No,NatPea,M4050,greenhouse,NA,4,4/19/24,D1,10
+Pea,No,NatPea,M4050,greenhouse,NA,5,4/19/24,D1,10
+Pea,No,NatPea,M4050,greenhouse,NA,6,4/19/24,D1,10
+Pea,No,NatPea,M4050,greenhouse,NA,7,4/19/24,D1,10
+Pea,No,NatPea,M4050,greenhouse,NA,8,4/19/24,D1,10
+Pea,No,NatPea,M4050,greenhouse,NA,9,4/19/24,D1,10
+Pea,No,NatPea,M4050,greenhouse,NA,10,4/19/24,D1,10
+Pea,Yes,AtPea,M4050,greenhouse,NA,1,4/19/24,D1,10
+Pea,Yes,AtPea,M4050,greenhouse,NA,2,4/19/24,D1,10
+Pea,Yes,AtPea,M4050,greenhouse,NA,3,4/19/24,D1,10
+Pea,Yes,AtPea,M4050,greenhouse,NA,4,4/19/24,D1,10
+Pea,Yes,AtPea,M4050,greenhouse,NA,5,4/19/24,D1,10
+Pea,Yes,AtPea,M4050,greenhouse,NA,6,4/19/24,D1,10
+Pea,Yes,AtPea,M4050,greenhouse,NA,7,4/19/24,D1,10
+Pea,Yes,AtPea,M4050,greenhouse,NA,8,4/19/24,D1,10
+Pea,Yes,AtPea,M4050,greenhouse,NA,9,4/19/24,D1,10
+Pea,Yes,AtPea,M4050,greenhouse,NA,10,4/19/24,D1,10
+Triticale,No,NatTrt,M4050,greenhouse,NA,1,4/19/24,D1,10
+Triticale,No,NatTrt,M4050,greenhouse,NA,2,4/19/24,D1,10
+Triticale,No,NatTrt,M4050,greenhouse,NA,3,4/19/24,D1,10
+Triticale,No,NatTrt,M4050,greenhouse,NA,4,4/19/24,D1,10
+Triticale,No,NatTrt,M4050,greenhouse,NA,5,4/19/24,D1,10
+Triticale,No,NatTrt,M4050,greenhouse,NA,6,4/19/24,D1,10
+Triticale,No,NatTrt,M4050,greenhouse,NA,7,4/19/24,D1,10
+Triticale,No,NatTrt,M4050,greenhouse,NA,8,4/19/24,D1,10
+Triticale,No,NatTrt,M4050,greenhouse,NA,9,4/19/24,D1,10
+Triticale,No,NatTrt,M4050,greenhouse,NA,10,4/19/24,D1,10
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,1,4/19/24,D1,10
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,2,4/19/24,D1,10
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,3,4/19/24,D1,10
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,4,4/19/24,D1,10
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,5,4/19/24,D1,10
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,6,4/19/24,D1,10
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,7,4/19/24,D1,10
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,8,4/19/24,D1,10
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,9,4/19/24,D1,10
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,10,4/19/24,D1,10
+Radish,No,NaRad,M4050,greenhouse,NA,1,4/19/24,D1,10
+Radish,No,NaRad,M4050,greenhouse,NA,2,4/19/24,D1,10
+Radish,No,NaRad,M4050,greenhouse,NA,3,4/19/24,D1,10
+Radish,No,NaRad,M4050,greenhouse,NA,4,4/19/24,D1,10
+Radish,No,NaRad,M4050,greenhouse,NA,5,4/19/24,D1,10
+Radish,No,NaRad,M4050,greenhouse,NA,6,4/19/24,D1,10
+Radish,No,NaRad,M4050,greenhouse,NA,7,4/19/24,D1,10
+Radish,No,NaRad,M4050,greenhouse,NA,8,4/19/24,D1,10
+Radish,No,NaRad,M4050,greenhouse,NA,9,4/19/24,D1,10
+Radish,No,NaRad,M4050,greenhouse,NA,10,4/19/24,D1,10
+Radish,Yes,AtRad,M4050,greenhouse,NA,1,4/19/24,D1,10
+Radish,Yes,AtRad,M4050,greenhouse,NA,2,4/19/24,D1,10
+Radish,Yes,AtRad,M4050,greenhouse,NA,3,4/19/24,D1,10
+Radish,Yes,AtRad,M4050,greenhouse,NA,4,4/19/24,D1,10
+Radish,Yes,AtRad,M4050,greenhouse,NA,5,4/19/24,D1,10
+Radish,Yes,AtRad,M4050,greenhouse,NA,6,4/19/24,D1,10
+Radish,Yes,AtRad,M4050,greenhouse,NA,7,4/19/24,D1,10
+Radish,Yes,AtRad,M4050,greenhouse,NA,8,4/19/24,D1,10
+Radish,Yes,AtRad,M4050,greenhouse,NA,9,4/19/24,D1,10
+Radish,Yes,AtRad,M4050,greenhouse,NA,10,4/19/24,D1,10
+Potting mix,No,NaPtm,M4050,greenhouse,NA,1,4/19/24,D1,10
+Potting mix,No,NaPtm,M4050,greenhouse,NA,2,4/19/24,D1,10
+Potting mix,No,NaPtm,M4050,greenhouse,NA,3,4/19/24,D1,10
+Potting mix,No,NaPtm,M4050,greenhouse,NA,4,4/19/24,D1,10
+Potting mix,No,NaPtm,M4050,greenhouse,NA,5,4/19/24,D1,10
+Potting mix,No,NaPtm,M4050,greenhouse,NA,6,4/19/24,D1,10
+Potting mix,No,NaPtm,M4050,greenhouse,NA,7,4/19/24,D1,10
+Potting mix,No,NaPtm,M4050,greenhouse,NA,8,4/19/24,D1,10
+Potting mix,No,NaPtm,M4050,greenhouse,NA,9,4/19/24,D1,10
+Potting mix,No,NaPtm,M4050,greenhouse,NA,10,4/19/24,D1,10
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,1,4/19/24,D1,10
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,2,4/19/24,D1,10
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,3,4/19/24,D1,10
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,4,4/19/24,D1,10
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,5,4/19/24,D1,10
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,6,4/19/24,D1,10
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,7,4/19/24,D1,10
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,8,4/19/24,D1,10
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,9,4/19/24,D1,10
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,10,4/19/24,D1,10
+Pea,No,NatPea,M4050,greenhouse,NA,1,4/25/24,D7,20
+Pea,No,NatPea,M4050,greenhouse,NA,2,4/25/24,D7,11
+Pea,No,NatPea,M4050,greenhouse,NA,3,4/25/24,D7,35
+Pea,No,NatPea,M4050,greenhouse,NA,4,4/25/24,D7,6
+Pea,No,NatPea,M4050,greenhouse,NA,5,4/25/24,D7,45
+Pea,No,NatPea,M4050,greenhouse,NA,6,4/25/24,D7,21
+Pea,No,NatPea,M4050,greenhouse,NA,7,4/25/24,D7,8
+Pea,No,NatPea,M4050,greenhouse,NA,8,4/25/24,D7,1
+Pea,No,NatPea,M4050,greenhouse,NA,9,4/25/24,D7,4
+Pea,No,NatPea,M4050,greenhouse,NA,10,4/25/24,D7,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,1,4/25/24,D7,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,2,4/25/24,D7,13
+Pea,Yes,AtPea,M4050,greenhouse,NA,3,4/25/24,D7,7
+Pea,Yes,AtPea,M4050,greenhouse,NA,4,4/25/24,D7,20
+Pea,Yes,AtPea,M4050,greenhouse,NA,5,4/25/24,D7,12
+Pea,Yes,AtPea,M4050,greenhouse,NA,6,4/25/24,D7,3
+Pea,Yes,AtPea,M4050,greenhouse,NA,7,4/25/24,D7,1
+Pea,Yes,AtPea,M4050,greenhouse,NA,8,4/25/24,D7,8
+Pea,Yes,AtPea,M4050,greenhouse,NA,9,4/25/24,D7,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,10,4/25/24,D7,7
+Triticale,No,NatTrt,M4050,greenhouse,NA,1,4/25/24,D7,1
+Triticale,No,NatTrt,M4050,greenhouse,NA,2,4/25/24,D7,2
+Triticale,No,NatTrt,M4050,greenhouse,NA,3,4/25/24,D7,1
+Triticale,No,NatTrt,M4050,greenhouse,NA,4,4/25/24,D7,8
+Triticale,No,NatTrt,M4050,greenhouse,NA,5,4/25/24,D7,14
+Triticale,No,NatTrt,M4050,greenhouse,NA,6,4/25/24,D7,1
+Triticale,No,NatTrt,M4050,greenhouse,NA,7,4/25/24,D7,20
+Triticale,No,NatTrt,M4050,greenhouse,NA,8,4/25/24,D7,8
+Triticale,No,NatTrt,M4050,greenhouse,NA,9,4/25/24,D7,1
+Triticale,No,NatTrt,M4050,greenhouse,NA,10,4/25/24,D7,11
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,1,4/25/24,D7,4
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,2,4/25/24,D7,0
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,3,4/25/24,D7,13
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,4,4/25/24,D7,22
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,5,4/25/24,D7,4
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,6,4/25/24,D7,9
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,7,4/25/24,D7,32
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,8,4/25/24,D7,6
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,9,4/25/24,D7,15
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,10,4/25/24,D7,0
+Radish,No,NaRad,M4050,greenhouse,NA,1,4/25/24,D7,3
+Radish,No,NaRad,M4050,greenhouse,NA,2,4/25/24,D7,2
+Radish,No,NaRad,M4050,greenhouse,NA,3,4/25/24,D7,0
+Radish,No,NaRad,M4050,greenhouse,NA,4,4/25/24,D7,3
+Radish,No,NaRad,M4050,greenhouse,NA,5,4/25/24,D7,7
+Radish,No,NaRad,M4050,greenhouse,NA,6,4/25/24,D7,7
+Radish,No,NaRad,M4050,greenhouse,NA,7,4/25/24,D7,3
+Radish,No,NaRad,M4050,greenhouse,NA,8,4/25/24,D7,9
+Radish,No,NaRad,M4050,greenhouse,NA,9,4/25/24,D7,9
+Radish,No,NaRad,M4050,greenhouse,NA,10,4/25/24,D7,14
+Radish,Yes,AtRad,M4050,greenhouse,NA,1,4/25/24,D7,25
+Radish,Yes,AtRad,M4050,greenhouse,NA,2,4/25/24,D7,0
+Radish,Yes,AtRad,M4050,greenhouse,NA,3,4/25/24,D7,16
+Radish,Yes,AtRad,M4050,greenhouse,NA,4,4/25/24,D7,3
+Radish,Yes,AtRad,M4050,greenhouse,NA,5,4/25/24,D7,0
+Radish,Yes,AtRad,M4050,greenhouse,NA,6,4/25/24,D7,3
+Radish,Yes,AtRad,M4050,greenhouse,NA,7,4/25/24,D7,15
+Radish,Yes,AtRad,M4050,greenhouse,NA,8,4/25/24,D7,25
+Radish,Yes,AtRad,M4050,greenhouse,NA,9,4/25/24,D7,5
+Radish,Yes,AtRad,M4050,greenhouse,NA,10,4/25/24,D7,11
+Potting mix,No,NaPtm,M4050,greenhouse,NA,1,4/25/24,D7,27
+Potting mix,No,NaPtm,M4050,greenhouse,NA,2,4/25/24,D7,9
+Potting mix,No,NaPtm,M4050,greenhouse,NA,3,4/25/24,D7,27
+Potting mix,No,NaPtm,M4050,greenhouse,NA,4,4/25/24,D7,8
+Potting mix,No,NaPtm,M4050,greenhouse,NA,5,4/25/24,D7,7
+Potting mix,No,NaPtm,M4050,greenhouse,NA,6,4/25/24,D7,12
+Potting mix,No,NaPtm,M4050,greenhouse,NA,7,4/25/24,D7,14
+Potting mix,No,NaPtm,M4050,greenhouse,NA,8,4/25/24,D7,67
+Potting mix,No,NaPtm,M4050,greenhouse,NA,9,4/25/24,D7,15
+Potting mix,No,NaPtm,M4050,greenhouse,NA,10,4/25/24,D7,9
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,1,4/25/24,D7,13
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,2,4/25/24,D7,3
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,3,4/25/24,D7,8
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,4,4/25/24,D7,26
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,5,4/25/24,D7,72
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,6,4/25/24,D7,22
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,7,4/25/24,D7,36
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,8,4/25/24,D7,19
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,9,4/25/24,D7,31
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,10,4/25/24,D7,4
+Pea,No,NatPea,M4050,greenhouse,NA,1,5/1/24,D14,0
+Pea,No,NatPea,M4050,greenhouse,NA,2,5/1/24,D14,8
+Pea,No,NatPea,M4050,greenhouse,NA,3,5/1/24,D14,11
+Pea,No,NatPea,M4050,greenhouse,NA,4,5/1/24,D14,0
+Pea,No,NatPea,M4050,greenhouse,NA,5,5/1/24,D14,3
+Pea,No,NatPea,M4050,greenhouse,NA,6,5/1/24,D14,5
+Pea,No,NatPea,M4050,greenhouse,NA,7,5/1/24,D14,8
+Pea,No,NatPea,M4050,greenhouse,NA,8,5/1/24,D14,0
+Pea,No,NatPea,M4050,greenhouse,NA,9,5/1/24,D14,0
+Pea,No,NatPea,M4050,greenhouse,NA,10,5/1/24,D14,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,1,5/1/24,D14,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,2,5/1/24,D14,1
+Pea,Yes,AtPea,M4050,greenhouse,NA,3,5/1/24,D14,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,4,5/1/24,D14,4
+Pea,Yes,AtPea,M4050,greenhouse,NA,5,5/1/24,D14,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,6,5/1/24,D14,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,7,5/1/24,D14,1
+Pea,Yes,AtPea,M4050,greenhouse,NA,8,5/1/24,D14,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,9,5/1/24,D14,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,10,5/1/24,D14,8
+Triticale,No,NatTrt,M4050,greenhouse,NA,1,5/1/24,D14,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,2,5/1/24,D14,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,3,5/1/24,D14,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,4,5/1/24,D14,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,5,5/1/24,D14,4
+Triticale,No,NatTrt,M4050,greenhouse,NA,6,5/1/24,D14,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,7,5/1/24,D14,9
+Triticale,No,NatTrt,M4050,greenhouse,NA,8,5/1/24,D14,5
+Triticale,No,NatTrt,M4050,greenhouse,NA,9,5/1/24,D14,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,10,5/1/24,D14,2
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,1,5/1/24,D14,0
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,2,5/1/24,D14,0
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,3,5/1/24,D14,5
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,4,5/1/24,D14,1
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,5,5/1/24,D14,1
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,6,5/1/24,D14,1
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,7,5/1/24,D14,6
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,8,5/1/24,D14,5
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,9,5/1/24,D14,5
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,10,5/1/24,D14,0
+Radish,No,NaRad,M4050,greenhouse,NA,1,5/1/24,D14,0
+Radish,No,NaRad,M4050,greenhouse,NA,2,5/1/24,D14,0
+Radish,No,NaRad,M4050,greenhouse,NA,3,5/1/24,D14,0
+Radish,No,NaRad,M4050,greenhouse,NA,4,5/1/24,D14,9
+Radish,No,NaRad,M4050,greenhouse,NA,5,5/1/24,D14,0
+Radish,No,NaRad,M4050,greenhouse,NA,6,5/1/24,D14,3
+Radish,No,NaRad,M4050,greenhouse,NA,7,5/1/24,D14,0
+Radish,No,NaRad,M4050,greenhouse,NA,8,5/1/24,D14,0
+Radish,No,NaRad,M4050,greenhouse,NA,9,5/1/24,D14,9
+Radish,No,NaRad,M4050,greenhouse,NA,10,5/1/24,D14,2
+Radish,Yes,AtRad,M4050,greenhouse,NA,1,5/1/24,D14,1
+Radish,Yes,AtRad,M4050,greenhouse,NA,2,5/1/24,D14,0
+Radish,Yes,AtRad,M4050,greenhouse,NA,3,5/1/24,D14,7
+Radish,Yes,AtRad,M4050,greenhouse,NA,4,5/1/24,D14,3
+Radish,Yes,AtRad,M4050,greenhouse,NA,5,5/1/24,D14,0
+Radish,Yes,AtRad,M4050,greenhouse,NA,6,5/1/24,D14,3
+Radish,Yes,AtRad,M4050,greenhouse,NA,7,5/1/24,D14,1
+Radish,Yes,AtRad,M4050,greenhouse,NA,8,5/1/24,D14,5
+Radish,Yes,AtRad,M4050,greenhouse,NA,9,5/1/24,D14,4
+Radish,Yes,AtRad,M4050,greenhouse,NA,10,5/1/24,D14,1
+Potting mix,No,NaPtm,M4050,greenhouse,NA,1,5/1/24,D14,31
+Potting mix,No,NaPtm,M4050,greenhouse,NA,2,5/1/24,D14,8
+Potting mix,No,NaPtm,M4050,greenhouse,NA,3,5/1/24,D14,13
+Potting mix,No,NaPtm,M4050,greenhouse,NA,4,5/1/24,D14,14
+Potting mix,No,NaPtm,M4050,greenhouse,NA,5,5/1/24,D14,12
+Potting mix,No,NaPtm,M4050,greenhouse,NA,6,5/1/24,D14,4
+Potting mix,No,NaPtm,M4050,greenhouse,NA,7,5/1/24,D14,23
+Potting mix,No,NaPtm,M4050,greenhouse,NA,8,5/1/24,D14,118
+Potting mix,No,NaPtm,M4050,greenhouse,NA,9,5/1/24,D14,4
+Potting mix,No,NaPtm,M4050,greenhouse,NA,10,5/1/24,D14,6
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,1,5/1/24,D14,5
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,2,5/1/24,D14,3
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,3,5/1/24,D14,1
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,4,5/1/24,D14,49
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,5,5/1/24,D14,108
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,6,5/1/24,D14,11
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,7,5/1/24,D14,53
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,8,5/1/24,D14,14
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,9,5/1/24,D14,42
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,10,5/1/24,D14,1
+Pea,No,NatPea,M4050,greenhouse,NA,1,5/8/24,D21,0
+Pea,No,NatPea,M4050,greenhouse,NA,2,5/8/24,D21,18
+Pea,No,NatPea,M4050,greenhouse,NA,3,5/8/24,D21,5
+Pea,No,NatPea,M4050,greenhouse,NA,4,5/8/24,D21,0
+Pea,No,NatPea,M4050,greenhouse,NA,5,5/8/24,D21,0
+Pea,No,NatPea,M4050,greenhouse,NA,6,5/8/24,D21,17
+Pea,No,NatPea,M4050,greenhouse,NA,7,5/8/24,D21,12
+Pea,No,NatPea,M4050,greenhouse,NA,8,5/8/24,D21,0
+Pea,No,NatPea,M4050,greenhouse,NA,9,5/8/24,D21,0
+Pea,No,NatPea,M4050,greenhouse,NA,10,5/8/24,D21,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,1,5/8/24,D21,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,2,5/8/24,D21,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,3,5/8/24,D21,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,4,5/8/24,D21,3
+Pea,Yes,AtPea,M4050,greenhouse,NA,5,5/8/24,D21,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,6,5/8/24,D21,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,7,5/8/24,D21,3
+Pea,Yes,AtPea,M4050,greenhouse,NA,8,5/8/24,D21,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,9,5/8/24,D21,0
+Pea,Yes,AtPea,M4050,greenhouse,NA,10,5/8/24,D21,14
+Triticale,No,NatTrt,M4050,greenhouse,NA,1,5/8/24,D21,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,2,5/8/24,D21,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,3,5/8/24,D21,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,4,5/8/24,D21,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,5,5/8/24,D21,1
+Triticale,No,NatTrt,M4050,greenhouse,NA,6,5/8/24,D21,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,7,5/8/24,D21,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,8,5/8/24,D21,5
+Triticale,No,NatTrt,M4050,greenhouse,NA,9,5/8/24,D21,0
+Triticale,No,NatTrt,M4050,greenhouse,NA,10,5/8/24,D21,0
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,1,5/8/24,D21,0
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,2,5/8/24,D21,0
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,3,5/8/24,D21,3
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,4,5/8/24,D21,1
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,5,5/8/24,D21,5
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,6,5/8/24,D21,0
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,7,5/8/24,D21,16
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,8,5/8/24,D21,9
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,9,5/8/24,D21,6
+Triticale,Yes,AtTrt,M4050,greenhouse,NA,10,5/8/24,D21,0
+Radish,No,NaRad,M4050,greenhouse,NA,1,5/8/24,D21,0
+Radish,No,NaRad,M4050,greenhouse,NA,2,5/8/24,D21,0
+Radish,No,NaRad,M4050,greenhouse,NA,3,5/8/24,D21,0
+Radish,No,NaRad,M4050,greenhouse,NA,4,5/8/24,D21,3
+Radish,No,NaRad,M4050,greenhouse,NA,5,5/8/24,D21,0
+Radish,No,NaRad,M4050,greenhouse,NA,6,5/8/24,D21,0
+Radish,No,NaRad,M4050,greenhouse,NA,7,5/8/24,D21,0
+Radish,No,NaRad,M4050,greenhouse,NA,8,5/8/24,D21,0
+Radish,No,NaRad,M4050,greenhouse,NA,9,5/8/24,D21,2
+Radish,No,NaRad,M4050,greenhouse,NA,10,5/8/24,D21,0
+Radish,Yes,AtRad,M4050,greenhouse,NA,1,5/8/24,D21,1
+Radish,Yes,AtRad,M4050,greenhouse,NA,2,5/8/24,D21,0
+Radish,Yes,AtRad,M4050,greenhouse,NA,3,5/8/24,D21,10
+Radish,Yes,AtRad,M4050,greenhouse,NA,4,5/8/24,D21,0
+Radish,Yes,AtRad,M4050,greenhouse,NA,5,5/8/24,D21,0
+Radish,Yes,AtRad,M4050,greenhouse,NA,6,5/8/24,D21,1
+Radish,Yes,AtRad,M4050,greenhouse,NA,7,5/8/24,D21,0
+Radish,Yes,AtRad,M4050,greenhouse,NA,8,5/8/24,D21,3
+Radish,Yes,AtRad,M4050,greenhouse,NA,9,5/8/24,D21,5
+Radish,Yes,AtRad,M4050,greenhouse,NA,10,5/8/24,D21,2
+Potting mix,No,NaPtm,M4050,greenhouse,NA,1,5/8/24,D21,156
+Potting mix,No,NaPtm,M4050,greenhouse,NA,2,5/8/24,D21,49
+Potting mix,No,NaPtm,M4050,greenhouse,NA,3,5/8/24,D21,44
+Potting mix,No,NaPtm,M4050,greenhouse,NA,4,5/8/24,D21,207
+Potting mix,No,NaPtm,M4050,greenhouse,NA,5,5/8/24,D21,25
+Potting mix,No,NaPtm,M4050,greenhouse,NA,6,5/8/24,D21,68
+Potting mix,No,NaPtm,M4050,greenhouse,NA,7,5/8/24,D21,58
+Potting mix,No,NaPtm,M4050,greenhouse,NA,8,5/8/24,D21,371
+Potting mix,No,NaPtm,M4050,greenhouse,NA,9,5/8/24,D21,107
+Potting mix,No,NaPtm,M4050,greenhouse,NA,10,5/8/24,D21,44
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,1,5/8/24,D21,22
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,2,5/8/24,D21,7
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,3,5/8/24,D21,9
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,4,5/8/24,D21,55
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,5,5/8/24,D21,149
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,6,5/8/24,D21,22
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,7,5/8/24,D21,119
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,8,5/8/24,D21,33
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,9,5/8/24,D21,126
+Potting mix,Yes,AtPtm,M4050,greenhouse,NA,10,5/8/24,D21,3
